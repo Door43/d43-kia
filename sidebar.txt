@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kia:home|Door43 (kia)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kia|d43-kia repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kia/archive/master.zip|d43-kia.zip]]
+
+**Recent Changes**
+{{changes>ns = kia}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kia|Ethnologue data]]
+
