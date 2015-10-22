@@ -17,10 +17,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/kia|Ethnologue data]]
 
-
 **Resources**
 
   * [[kia:obs|Open Bible Stories (kia)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:kia:obs:status}}
